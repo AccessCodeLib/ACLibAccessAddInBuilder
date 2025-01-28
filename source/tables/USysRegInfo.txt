@@ -1,0 +1,4 @@
+﻿Subkey	Type	ValName	Value
+HKEY_CURRENT_ACCESS_PROFILE\\Menu Add-Ins\\ACLib Access Add-in Builder	0		
+HKEY_CURRENT_ACCESS_PROFILE\\Menu Add-Ins\\ACLib Access Add-in Builder	1	Expression	=LoadAddIn()
+HKEY_CURRENT_ACCESS_PROFILE\\Menu Add-Ins\\ACLib Access Add-in Builder	1	Library	|ACCDIR\\ACLibAccessAddInBuilder.accda

@@ -1,0 +1,16 @@
+﻿{
+  "Info": {
+    "Class": "clsDbDocument",
+    "Description": "Database Documents Properties (DAO)"
+  },
+  "Items": {
+    "Databases": {
+      "SummaryInfo": {
+        "Author": "Josef Pötzl",
+        "Comments": "Config USysRegInfo table for Access add-ins",
+        "Company": "access-codelib.net",
+        "Title": "Access Add-in Builder"
+      }
+    }
+  }
+}

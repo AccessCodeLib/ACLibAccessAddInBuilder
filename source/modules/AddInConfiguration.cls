@@ -253,7 +253,9 @@ ExitHere:
 
 HandleErr:
    If Err.Number = 3270 Then
-      PropDb.Containers("Databases").Documents("SummaryInfo").Properties.Append PropDb.CreateProperty(PropertyName, dbText, NewValue)
+      If Len(NewValue) > 0 Then
+         PropDb.Containers("Databases").Documents("SummaryInfo").Properties.Append PropDb.CreateProperty(PropertyName, dbText, NewValue)
+      End If
       Resume ExitHere
    End If
 

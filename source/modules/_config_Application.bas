@@ -17,7 +17,7 @@ Option Compare Text
 Option Explicit
 
 'Version number
-Private Const APPLICATION_VERSION As String = "1.0.0.250128"
+Private Const APPLICATION_VERSION As String = "1.0.1.250301"
 
 Private Const APPLICATION_NAME As String = "ACLib Access Add-in Builder"
 Private Const APPLICATION_FULLNAME As String = "Access-CodeLib - Access Add-in Builder"

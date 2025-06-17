@@ -17,11 +17,11 @@ Begin Form
     GridY =10
     Width =12018
     DatasheetFontHeight =11
-    ItemSuffix =339
-    Left =4783
-    Top =3026
-    Right =18600
-    Bottom =14117
+    ItemSuffix =344
+    Left =5010
+    Top =3030
+    Right =16673
+    Bottom =12195
     RecSrcDt = Begin
         0x956642cd6e4ee640
     End
@@ -132,7 +132,7 @@ Begin Form
             GridlineShade =65.0
         End
         Begin Section
-            Height =6944
+            Height =6977
             Name ="Detailbereich"
             AlternateBackThemeColorIndex =1
             AlternateBackShade =95.0
@@ -696,18 +696,18 @@ Begin Form
                     LayoutCachedTop =2607
                     LayoutCachedWidth =11855
                     LayoutCachedHeight =5890
-                    TabIndex =12
+                    TabIndex =13
                 End
                 Begin TextBox
                     OverlapFlags =93
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =3163
-                    Width =4243
+                    Left =2070
+                    Top =3165
+                    Width =4327
                     Height =300
-                    TabIndex =5
+                    TabIndex =6
                     Name ="txtAddInTitle"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -715,14 +715,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =3163
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =3463
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =3165
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =3465
                     RowStart =6
                     RowEnd =6
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -731,8 +731,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =3163
+                            Left =563
+                            Top =3165
                             Width =1440
                             Height =300
                             Name ="lbltxtAddInName"
@@ -741,10 +741,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =3163
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =3463
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =3165
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =3465
                             RowStart =6
                             RowEnd =6
                             LayoutGroup =1
@@ -761,22 +761,21 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =566
-                    Width =4243
+                    Left =2070
+                    Top =563
+                    Width =3814
                     Height =300
                     TabIndex =1
                     Name ="txtFileName"
                     FontName ="Tahoma"
                     GroupTable =1
-                    RightPadding =567
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =566
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =866
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =563
+                    LayoutCachedWidth =5884
+                    LayoutCachedHeight =863
                     ColumnStart =1
                     ColumnEnd =3
                     LayoutGroup =1
@@ -787,8 +786,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =566
+                            Left =563
+                            Top =563
                             Width =1440
                             Height =300
                             Name ="lblFileName"
@@ -797,10 +796,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =566
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =866
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =563
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =863
                             LayoutGroup =1
                             ThemeFontIndex =-1
                             GroupTable =1
@@ -812,11 +811,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =3643
-                    Width =4243
+                    Left =2070
+                    Top =3653
+                    Width =4327
                     Height =300
-                    TabIndex =6
+                    TabIndex =7
                     Name ="txtAddInAuthor"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -824,14 +823,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =3643
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =3943
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =3653
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =3953
                     RowStart =7
                     RowEnd =7
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -840,8 +839,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =3643
+                            Left =563
+                            Top =3653
                             Width =1440
                             Height =300
                             Name ="lblAddInAuthor"
@@ -850,10 +849,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =3643
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =3943
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =3653
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =3953
                             RowStart =7
                             RowEnd =7
                             LayoutGroup =1
@@ -867,11 +866,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =4123
-                    Width =4243
+                    Left =2070
+                    Top =4140
+                    Width =4327
                     Height =300
-                    TabIndex =7
+                    TabIndex =8
                     Name ="txtAddInCompany"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -879,14 +878,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =4123
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =4423
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =4140
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =4440
                     RowStart =8
                     RowEnd =8
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -895,8 +894,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =4123
+                            Left =563
+                            Top =4140
                             Width =1440
                             Height =300
                             Name ="lblAddInCompany"
@@ -905,10 +904,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =4123
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =4423
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =4140
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =4440
                             RowStart =8
                             RowEnd =8
                             LayoutGroup =1
@@ -922,11 +921,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =4603
-                    Width =4243
-                    Height =1131
-                    TabIndex =8
+                    Left =2070
+                    Top =4628
+                    Width =4327
+                    Height =1133
+                    TabIndex =9
                     Name ="txtAddInComment"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -935,14 +934,14 @@ Begin Form
                     VerticalAnchor =2
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =4603
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =5734
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =4628
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =5761
                     RowStart =9
                     RowEnd =9
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -951,10 +950,10 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =4603
+                            Left =563
+                            Top =4628
                             Width =1440
-                            Height =1131
+                            Height =1133
                             Name ="lblAddInComment"
                             Caption ="Comment"
                             FontName ="Tahoma"
@@ -962,10 +961,10 @@ Begin Form
                             LeftPadding =57
                             BottomPadding =150
                             VerticalAnchor =2
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =4603
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =5734
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =4628
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =5761
                             RowStart =9
                             RowEnd =9
                             LayoutGroup =1
@@ -976,11 +975,11 @@ Begin Form
                 End
                 Begin CommandButton
                     OverlapFlags =85
-                    Left =3823
-                    Top =5914
-                    Width =2494
-                    Height =454
-                    TabIndex =10
+                    Left =3825
+                    Top =5948
+                    Width =2572
+                    Height =458
+                    TabIndex =11
                     Name ="cmdSaveAddIn"
                     Caption ="Update Add-in"
                     OnClick ="[Event Procedure]"
@@ -988,24 +987,24 @@ Begin Form
                     RightPadding =567
                     BottomPadding =567
 
-                    LayoutCachedLeft =3823
-                    LayoutCachedTop =5914
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =6368
+                    LayoutCachedLeft =3825
+                    LayoutCachedTop =5948
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =6406
                     RowStart =10
                     RowEnd =10
                     ColumnStart =3
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     GroupTable =1
                 End
                 Begin CommandButton
                     OverlapFlags =85
-                    Left =566
-                    Top =5914
-                    Width =2571
-                    Height =454
-                    TabIndex =9
+                    Left =563
+                    Top =5948
+                    Width =2572
+                    Height =458
+                    TabIndex =10
                     Name ="cmdLoadFromAddIn"
                     Caption ="Load from Add-in"
                     OnClick ="[Event Procedure]"
@@ -1013,10 +1012,10 @@ Begin Form
                     LeftPadding =57
                     BottomPadding =567
 
-                    LayoutCachedLeft =566
-                    LayoutCachedTop =5914
-                    LayoutCachedWidth =3137
-                    LayoutCachedHeight =6368
+                    LayoutCachedLeft =563
+                    LayoutCachedTop =5948
+                    LayoutCachedWidth =3135
+                    LayoutCachedHeight =6406
                     RowStart =10
                     RowEnd =10
                     ColumnEnd =1
@@ -1024,18 +1023,18 @@ Begin Form
                     GroupTable =1
                 End
                 Begin EmptyCell
-                    Left =3197
-                    Top =5914
-                    Width =566
-                    Height =454
+                    Left =3195
+                    Top =5948
+                    Width =563
+                    Height =458
                     Name ="EmptyCell42"
                     GroupTable =1
                     BottomPadding =567
                     HorizontalAnchor =2
-                    LayoutCachedLeft =3197
-                    LayoutCachedTop =5914
-                    LayoutCachedWidth =3763
-                    LayoutCachedHeight =6368
+                    LayoutCachedLeft =3195
+                    LayoutCachedTop =5948
+                    LayoutCachedWidth =3758
+                    LayoutCachedHeight =6406
                     RowStart =10
                     RowEnd =10
                     ColumnStart =2
@@ -1048,11 +1047,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =2357
-                    Width =4243
-                    Height =291
-                    TabIndex =4
+                    Left =2070
+                    Top =2355
+                    Width =4327
+                    Height =293
+                    TabIndex =5
                     Name ="txtAddInStartFunction"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -1060,14 +1059,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =2357
-                    LayoutCachedWidth =6317
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =2355
+                    LayoutCachedWidth =6397
                     LayoutCachedHeight =2648
                     RowStart =4
                     RowEnd =4
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -1076,19 +1075,19 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =2357
+                            Left =563
+                            Top =2355
                             Width =1440
-                            Height =291
+                            Height =293
                             Name ="lblAddInStartFunction"
                             Caption ="Start Function"
                             FontName ="Tahoma"
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =2357
-                            LayoutCachedWidth =2006
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =2355
+                            LayoutCachedWidth =2003
                             LayoutCachedHeight =2648
                             RowStart =4
                             RowEnd =4
@@ -1103,11 +1102,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =1869
-                    Width =4243
+                    Left =2070
+                    Top =1868
+                    Width =4327
                     Height =300
-                    TabIndex =3
+                    TabIndex =4
                     Name ="txtAddInRegPathName"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -1115,14 +1114,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =1869
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =2169
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =1868
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =2168
                     RowStart =3
                     RowEnd =3
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -1131,8 +1130,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =1869
+                            Left =563
+                            Top =1868
                             Width =1440
                             Height =300
                             Name ="Bezeichnungsfeld105"
@@ -1141,10 +1140,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =1869
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =2169
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =1868
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =2168
                             RowStart =3
                             RowEnd =3
                             LayoutGroup =1
@@ -1158,9 +1157,9 @@ Begin Form
                     OverlapFlags =85
                     TextAlign =1
                     TextFontFamily =34
-                    Left =566
-                    Top =1534
-                    Width =5751
+                    Left =563
+                    Top =1530
+                    Width =5834
                     Height =300
                     FontWeight =700
                     Name ="Bezeichnungsfeld112"
@@ -1170,13 +1169,13 @@ Begin Form
                     LeftPadding =57
                     RightPadding =567
                     BottomPadding =0
-                    LayoutCachedLeft =566
-                    LayoutCachedTop =1534
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =1834
+                    LayoutCachedLeft =563
+                    LayoutCachedTop =1530
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =1830
                     RowStart =2
                     RowEnd =2
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -1186,9 +1185,9 @@ Begin Form
                     OverlapFlags =85
                     TextAlign =1
                     TextFontFamily =34
-                    Left =566
-                    Top =2829
-                    Width =5751
+                    Left =563
+                    Top =2828
+                    Width =5834
                     Height =300
                     FontWeight =700
                     Name ="Bezeichnungsfeld150"
@@ -1198,13 +1197,13 @@ Begin Form
                     LeftPadding =57
                     RightPadding =567
                     BottomPadding =0
-                    LayoutCachedLeft =566
-                    LayoutCachedTop =2829
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =3129
+                    LayoutCachedLeft =563
+                    LayoutCachedTop =2828
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =3128
                     RowStart =5
                     RowEnd =5
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -1214,11 +1213,11 @@ Begin Form
                     TextAlign =1
                     TextFontFamily =34
                     IMESentenceMode =3
-                    Left =2074
-                    Top =1054
-                    Width =4243
+                    Left =2070
+                    Top =1050
+                    Width =4327
                     Height =300
-                    TabIndex =2
+                    TabIndex =3
                     Name ="txtAppTitle"
                     FontName ="Tahoma"
                     GroupTable =1
@@ -1226,14 +1225,14 @@ Begin Form
                     BottomPadding =150
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =2074
-                    LayoutCachedTop =1054
-                    LayoutCachedWidth =6317
-                    LayoutCachedHeight =1354
+                    LayoutCachedLeft =2070
+                    LayoutCachedTop =1050
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =1350
                     RowStart =1
                     RowEnd =1
                     ColumnStart =1
-                    ColumnEnd =3
+                    ColumnEnd =4
                     LayoutGroup =1
                     ThemeFontIndex =-1
                     GroupTable =1
@@ -1242,8 +1241,8 @@ Begin Form
                             OverlapFlags =85
                             TextAlign =1
                             TextFontFamily =34
-                            Left =566
-                            Top =1054
+                            Left =563
+                            Top =1050
                             Width =1440
                             Height =300
                             Name ="Label247"
@@ -1252,10 +1251,10 @@ Begin Form
                             GroupTable =1
                             LeftPadding =57
                             BottomPadding =150
-                            LayoutCachedLeft =566
-                            LayoutCachedTop =1054
-                            LayoutCachedWidth =2006
-                            LayoutCachedHeight =1354
+                            LayoutCachedLeft =563
+                            LayoutCachedTop =1050
+                            LayoutCachedWidth =2003
+                            LayoutCachedHeight =1350
                             RowStart =1
                             RowEnd =1
                             LayoutGroup =1
@@ -1541,7 +1540,7 @@ Begin Form
                     LayoutCachedTop =170
                     LayoutCachedWidth =10681
                     LayoutCachedHeight =2467
-                    TabIndex =11
+                    TabIndex =12
                 End
                 Begin Line
                     BorderWidth =1
@@ -1630,6 +1629,68 @@ Begin Form
                     LayoutCachedTop =6576
                     LayoutCachedWidth =11706
                     LayoutCachedHeight =6799
+                End
+                Begin CommandButton
+                    OverlapFlags =85
+                    Left =5955
+                    Top =563
+                    Width =442
+                    Height =300
+                    TabIndex =2
+                    Name ="cmdRefreshFile"
+                    Caption ="Command341"
+                    OnClick ="[Event Procedure]"
+                    GroupTable =1
+                    RightPadding =567
+                    BottomPadding =150
+                    ImageData = Begin
+                        0x2800000010000000100000000100200000000000000000000000000000000000 ,
+                        0x00000000000000000000000000000000727272ff727272ff727272ff727272ff ,
+                        0x000000000000000090a4682190a468ae90a468e790a468e490a468a890a4681b ,
+                        0x00000000000000000000000000000000727272ffffffffffffffffff00000000 ,
+                        0x90a468ff90a4682a90a468f390a468ff90a468d590a468d890a468ff90a468ed ,
+                        0x90a4682100000000727272ffffffffff727272ffffffffffffffffff00000000 ,
+                        0x90a468ff90a468cc90a468f390a4683f000000000000000090a4684890a468f6 ,
+                        0x90a468bd00000000727272ffffffffff727272ffffffffffffffffff00000000 ,
+                        0x90a468ff90a468ff90a468720000000000000000000000000000000090a46878 ,
+                        0x90a468ff90a4682a727272ffffffffff727272ffffffffffffffffff00000000 ,
+                        0x90a468ff90a468ff90a468ff90a468ff00000000000000000000000000000000 ,
+                        0x0000000000000000727272ffffffffff727272ffffffffffffffffffffffff18 ,
+                        0x00000000000000000000000000000000000000000000000090a468ff90a468ff ,
+                        0x90a468ff90a468ff727272ffffffffff727272ffffffffffffffffffffffff4b ,
+                        0x90a4683690a468ff90a468960000000000000000000000000000000090a46890 ,
+                        0x90a468ff90a468ff727272ffffffffff727272ffffffffffffffffffffffffa5 ,
+                        0x0000000090a468ae90a468ff90a4689390a4682a90a4682a90a4689390a468ff ,
+                        0x90a468b490a468ff727272ffffffffff727272fffffffffffffffffffffffffc ,
+                        0xffffff4290a4681290a468c990a468ff90a468ff90a468ff90a468ff90a468c9 ,
+                        0x90a4681590a468ff727272ffffffffff727272ffffffffffffffffffffffffff ,
+                        0xffffffedffffff5190a4680390a4685a90a4689c90a4689f90a4685d90a46803 ,
+                        0x0000000000000000727272ffffffffff727272ffffffffffffffffffffffffff ,
+                        0xffffffffffffffffffffffab727272ff727272ff727272ff727272ff72727203 ,
+                        0x0000000000000000727272ffffffffff727272ffffffffffffffffffffffffff ,
+                        0xffffffffffffffffffffffff727272ffdcdcdcff777777f67272723f00000000 ,
+                        0x0000000000000000727272ffffffffff727272ffffffffffffffffffffffffff ,
+                        0xffffffffffffffffffffffff727272ff787878f47272723c0000000000000000 ,
+                        0x0000000000000000727272ffffffffff727272ff727272ff727272ff727272ff ,
+                        0x727272ff727272ff727272ff727272ff7272723c000000000000000000000000 ,
+                        0x0000000000000000727272ffffffffffffffffffffffffffffffffffffffffff ,
+                        0xffffffffffffffff000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000727272ff727272ff727272ff727272ff727272ff727272ff ,
+                        0x727272ff727272ff000000000000000000000000000000000000000000000000 ,
+                        0x0000000000000000
+                    End
+                    BackStyle =0
+
+                    LayoutCachedLeft =5955
+                    LayoutCachedTop =563
+                    LayoutCachedWidth =6397
+                    LayoutCachedHeight =863
+                    ColumnStart =4
+                    ColumnEnd =4
+                    LayoutGroup =1
+                    Gradient =0
+                    OldBorderStyle =0
+                    GroupTable =1
                 End
             End
         End

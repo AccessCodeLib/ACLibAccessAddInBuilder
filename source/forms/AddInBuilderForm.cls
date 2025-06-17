@@ -18,6 +18,10 @@ Private Sub cmdLoadFromAddIn_Click()
    LoadDataFromConfiguration True
 End Sub
 
+Private Sub cmdRefreshFile_Click()
+   Me.txtFileName.Value = Replace(CurrentProject.Name, ".accdb", ".accda", , , vbTextCompare)
+End Sub
+
 Private Sub cmdSaveAddIn_Click()
    SaveToCurrentFile
 End Sub
